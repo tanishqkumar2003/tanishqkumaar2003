@@ -1,4 +1,4 @@
-# tanishqkumaar2003
+# tanishqkumar2003
 
 
 # Hey! I'm Tanishq Kumar
