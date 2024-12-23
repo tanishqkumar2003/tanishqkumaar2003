@@ -28,7 +28,7 @@
 
 ## Projects 
 
-**Below is the list of project(s) I'm working on or I've worked on.**
+**Below are the projects I've worked on.**
 
 ### 1. [**ThoughtSphere**](https://github.com/tanishqkumar2003/Thought-Sphere) | [**Live Link**](https://thoughtsphere-6b5e7.web.app/)
 
