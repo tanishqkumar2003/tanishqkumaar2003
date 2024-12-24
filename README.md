@@ -4,7 +4,7 @@
 ## Software Engineer | Full Stack Developer  
 
 - Based in **Ghaziabad (U.P.), India**. 
-- See my portfolio at [**Tanishq Kumar**](https:///). 
+- See my portfolio at [**Tanishq Kumar**](https://portfolio-gamma-eosin-12.vercel.app/). 
 - Reach out to me [**Email**](mailto:tanishqkumar1003@gmail.com) or [**X/Twitter**](https://x.com/tanishqpayla).
 - Working with **cloudflare, Next.js,socket.io, Containers, Redis, Node.js, React.js ** nowadays! 
 - Diving deep into **Full Stack Development**. 
@@ -12,12 +12,12 @@
 ## Skills
 
 - **Languages**: Javascript/TypeScript, Python.
-- **Frameworks/Libraries**: Node.js, React.js, Next.js, Hono.js/Express.js.
+- **Frameworks/Libraries**: Node.js, React.js, Next.js, Hono.js/Express.js, Django.
 - **Tools**: Docker, Postman, Bash . 
 - **Platforms**: GitHub, AWS, Vercel, Cloudflare.
 - **Databases**: MongoDB, PostgreSQL.
 - **ORM**: Prisma, Mongoose.
-- **Misc**: Kubernetes, Nginx, Turborepo(Monorepos), TailwindCSS. 
+- **Misc**: Nginx, Turborepo(Monorepos), TailwindCSS. 
 
 ## Socials
 
