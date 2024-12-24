@@ -1,5 +1,3 @@
-# tanishqkumar2003
-
 
 # Hey! I'm Tanishq Kumar
 
@@ -32,7 +30,6 @@
 
 ### 1. [**ThoughtSphere**](https://github.com/tanishqkumar2003/Thought-Sphere) | [**Live Link**](https://thoughtsphere-6b5e7.web.app/)
 
--This project is a clone of Medium, a platform for publishing articles and engaging with readers. It leverages modern technologies such as React for the frontend, Cloudflare Workers for 
- the backend, and various other tools and libraries to create a seamless user experience.
+-Built an AI-powered blogging platform using React.js, Node.js, TypeScript, and Cloudflare Workers, with a responsive frontend and a globally distributed, high-performance backend. Integrated Gemini API for blog summarization, Zod for data validation, and secured it with JWT. Database powered by PostgreSQL and optimized with Prisma ORM for scalability and efficiency.
 
 
