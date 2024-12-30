@@ -48,3 +48,8 @@
 -Introducing my MERN-based payment app, designed for seamless and secure financial management. The app allows users to perform transactions effortlessly with real-time updates and intuitive navigation. Robust encryption ensures the highest level of security for user data. Its responsive design offers easy access across all devices, providing a smooth experience anywhere, anytime. A perfect solution for managing payments securely and efficiently.
 
 
+### 4. [**Location**](https://github.com/tanishqkumar2003/Location) | [**Live Link**](https://netflixgpt-63400-43965.web.app)
+
+-Created a location/address selection feature using React for a dynamic frontend and Node.js for robust backend APIs. Integrated Google Maps API for real-time location search and geolocation functionalities. Implemented state management with Redux/Context API to enhance user experience, allowing seamless selection and saving of delivery addresses..
+
+
