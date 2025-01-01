@@ -50,6 +50,6 @@
 
 ### 5. [**Location**](https://github.com/tanishqkumar2003/Location) | [**Live Link**](https://netflixgpt-63400-43965.web.app)
 
--Created a location/address selection feature using React for a dynamic frontend and Node.js for robust backend APIs. Integrated Google Maps API for real-time location search and geolocation functionalities. Implemented state management with Redux/Context API to enhance user experience, allowing seamless selection and saving of delivery addresses..
+-Created a location/address selection feature using React for a dynamic frontend and Node.js for robust backend APIs. Integrated Google Maps API for real-time location search and geolocation functionalities. Implemented state management with Context API to enhance user experience, allowing seamless selection and saving of delivery addresses. Users can select locations accurately using a map pointer and save them for future use.
 
 
