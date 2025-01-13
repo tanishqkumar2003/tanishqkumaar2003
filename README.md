@@ -6,7 +6,7 @@
 - Based in **Ghaziabad (U.P.), India**. 
 - See my portfolio at [**Tanishq Kumar**](https://portfolio-gamma-eosin-12.vercel.app/). 
 - Reach out to me [**Email**](mailto:tanishqkumar1003@gmail.com) or [**X/Twitter**](https://x.com/tanishqpayla).
-- Working with **cloudflare, Next.js,socket.io, Containers, Redis, Node.js, React.js ** nowadays! 
+- Working with **cloudflare, Next.js, Containers, Node.js, React.js ** nowadays! 
 - Diving deep into **Full Stack Development**. 
 
 ## Skills
